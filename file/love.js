@@ -169,7 +169,7 @@
             ctx.moveTo(0, 0);
             ctx.scale(0.75, 0.75);
             ctx.font = "12px Arial, sans-serif"; // Why doesn't the font size work? (facepalm)
-            ctx.fillText("Come Baby", 23, 10);
+            ctx.fillText("Welcome Avani", 23, 10);
             ctx.restore();
         },
         clear: function() {
